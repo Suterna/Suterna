@@ -1,0 +1,142 @@
+﻿ 	#numeros {
+        width: 30%;
+        margin-left:2%;
+        float:left;
+    }
+    
+    #sorteos {
+		width:65%;
+		margin-left:2%;
+		float:left;
+	}
+
+    li{
+        list-style-type: none;
+        
+    }
+
+	ul > li > ul > li {
+		display:inline;
+	}
+
+    ul{
+        padding-left: 0px;  
+    }
+    
+    fieldset > ul {
+		text-align:center;
+	}
+
+    .cuadrado {
+        margin: 5px 5px 5px 0px;
+        width: 23px;
+        height: 23px;   
+        padding: 0px;
+        background: none repeat scroll 0px 0px #FFF;
+        border: 1px solid #C7CBCD;
+        font-size: 0.6em;
+        border-radius: 4px;
+        color: #505050;
+    }
+
+    .seleccion {
+        background-color: #849DF9;
+        font-weight: bolder;
+    }
+    
+   /* Clase para los números acertados */
+	.acierto {
+		color:red;
+		font-weight: bolder;
+		background-color:lightsteelblue;
+	}
+    
+   /* Clases para los premios */   
+   	.premio { /* para utilizar en la fila premiada */
+		background-color: silver;
+	}
+
+   
+    .cat1 { /* 6 aciertos */
+		background-color:yellow;
+	}
+	
+	.cat2 { /* 5 aciertos y el complementario */
+		background-color: aquamarine;
+	}
+	
+	.cat3 { /* 5 aciertos */
+		background-color: burlywood;
+	}
+	
+	.cat4 { /* 4 aciertos */
+		background-color: greenyellow;
+	}
+		
+	.cat5 { /* 3 aciertos */
+		background-color: silver;
+	}
+		
+	.reintegro { /* reintegro */
+		background-color: lightblue;
+	}
+	
+	/* Estilos para la tabla */
+	.tablaSorteo,.tablaPremios {
+	    border-collapse: collapse;
+		margin: 0px 0px 20px 0px;
+		padding:0px;
+		width:100%;
+		box-shadow: 10px 10px 5px #888888;
+		border:1px solid #000000;		
+	}
+	
+	.tablaSorteo thead{		
+		border:0px solid #000000;
+		text-align:center;
+		border-width:0px 0px 1px 1px;
+		font-family:Garamond;
+		font-weight:bold;
+		
+	}
+	.tablaSorteo td{
+		vertical-align:middle;			
+		border:1px solid #000000;
+		border-width: 0px 1px 1px 0px;
+		text-align:center;
+		padding:5px;
+		font-family:Garamond;
+		font-weight:normal;
+	}
+	
+	.tablaPremios thead{
+		border:0px solid #000000;
+		text-align:center;
+		border-width:0px 0px 1px 1px;
+		font-family:Garamond;
+		font-weight:bold;
+		
+	}
+	.tablaPremios tbody tr td:first-child{
+		vertical-align: middle;	
+		border:1px solid #000000;
+		border-width:0px 1px 1px 0px;
+		text-align: left;
+		padding:5px;
+		font-family:Garamond;
+		font-weight:normal;
+		
+	}
+	.tablaPremios tbody tr td:last-child{
+		vertical-align: middle;	
+		border:1px solid #000000;
+		border-width:0px 1px 1px 0px;
+		text-align: right;
+		padding:5px;
+		font-family:Garamond;
+		font-weight:normal;
+		
+	}
+
+
+	
