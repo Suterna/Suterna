@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<sorteos>
+	<sorteo fecha="06-11-2014">
+		<numero>4</numero>
+		<numero>14</numero>
+		<numero>24</numero>
+		<numero>34</numero>
+		<numero>44</numero>
+		<numero>49</numero>
+		<complementario>33</complementario>
+		<reintegro>4</reintegro>
+		<premios>
+			<cat1>22.000.000,00 €</cat1>
+			<cat2>35.022,88 €</cat2>
+			<cat3>1.603,16 €</cat3>
+			<cat4>48,94 €</cat4>
+			<cat5>8,00 €</cat5>
+			<reint>1,00 €</reint>
+		</premios>
+	</sorteo>
+	<sorteo fecha="13-11-2014">
+		<numero>5</numero>
+		<numero>15</numero>
+		<numero>25</numero>
+		<numero>35</numero>
+		<numero>45</numero>
+		<numero>49</numero>
+		<complementario>33</complementario>
+		<reintegro>4</reintegro>
+		<premios>
+			<cat1>16.000.000,00 €</cat1>
+			<cat2>23.031,18 €</cat2>
+			<cat3>1.920,16 €</cat3>
+			<cat4>50,92 €</cat4>
+			<cat5>7,00 €</cat5>
+			<reint>1,00 €</reint>
+		</premios>
+	</sorteo>
+	<sorteo fecha="20-11-2014">
+		<numero>6</numero>
+		<numero>16</numero>
+		<numero>26</numero>
+		<numero>36</numero>
+		<numero>46</numero>
+		<numero>49</numero>
+		<complementario>33</complementario>
+		<reintegro>4</reintegro>
+		<premios>
+			<cat1>29.000.000,00 €</cat1>
+			<cat2>35.532,38 €</cat2>
+			<cat3>1.678,16 €</cat3>
+			<cat4>54,94 €</cat4>
+			<cat5>9,00 €</cat5>
+			<reint>1,00 €</reint>
+		</premios>
+	</sorteo>
+	<sorteo fecha="27-11-2014">
+		<numero>7</numero>
+		<numero>17</numero>
+		<numero>27</numero>
+		<numero>37</numero>
+		<numero>47</numero>
+		<numero>49</numero>
+		<complementario>33</complementario>
+		<reintegro>4</reintegro>
+		<premios>
+			<cat1>54.000.000,00 €</cat1>
+			<cat2>125.987,44 €</cat2>
+			<cat3>2.234,36 €</cat3>
+			<cat4>78,32 €</cat4>
+			<cat5>12,00 €</cat5>
+			<reint>1,00 €</reint>
+		</premios>
+	</sorteo>
+	<sorteo fecha="04-12-2014">
+		<numero>8</numero>
+		<numero>18</numero>
+		<numero>28</numero>
+		<numero>38</numero>
+		<numero>48</numero>
+		<numero>49</numero>
+		<complementario>33</complementario>
+		<reintegro>4</reintegro>
+		<premios>
+			<cat1>34.000.000,00 €</cat1>
+			<cat2>29.123,38 €</cat2>
+			<cat3>1.223,23 €</cat3>
+			<cat4>46,21 €</cat4>
+			<cat5>8,00 €</cat5>
+			<reint>1,00 €</reint>
+		</premios>
+	</sorteo>
+</sorteos>
